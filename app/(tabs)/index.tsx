@@ -15,7 +15,7 @@ export default function HomeScreen() {
             style={styles.avatar}
           />
         </View>
-        <Text style={styles.name}>Ajagbe Oluwateniolafunmi Michelle</Text>
+        <Text style={styles.name}>Ajagbe Oluwateniolafunmi</Text>
         <Text style={styles.tagline}>Frontend Dev · Mobile Dev in Progress</Text>
         <Text style={styles.school}> Redeemer's University</Text>
       </View>
